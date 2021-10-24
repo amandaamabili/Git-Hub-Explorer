@@ -37,10 +37,9 @@ $ code .
 
 
 ```
+### 🎲 Rodando o Servidor
 
 ```bash
-
-### 🎲 Rodando o Servidor
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn  dev
