@@ -35,6 +35,11 @@ $ code .
 
 # Instale as dependências
 
+
+```
+
+```bash
+
 ### 🎲 Rodando o Servidor
 
 # Execute a aplicação em modo de desenvolvimento
@@ -45,6 +50,7 @@ $ yarn  build
 
 # O servidor inciará na porta:8080 - acesse <http://localhost:8080>
 ```
+
 
 <h4 align="center"> 
 	🚧  React Select 🚀 PRONTO.  🚧
