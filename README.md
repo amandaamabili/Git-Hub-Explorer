@@ -21,7 +21,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com),[Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable), [React.js](https://reactjs.org/), [Typescript.js](https://www.typescriptlang.org/) => Esses dois últimos se não tiver eu explico abaixo. 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando Servidor
+### 🎲 Instalação
 
 ```bash
 # Clone este repositório
@@ -35,6 +35,7 @@ $ code .
 
 # Instale as dependências
 
+### 🎲 Rodando o Servidor
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn  dev
