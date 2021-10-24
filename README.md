@@ -1,9 +1,52 @@
 # Git-Hub-Explorer
 #Projeto desenvolvido para  fazer uma página de repositórios Git-Hub.
 
+Tabela de conteúdos
+=================
+<p align="center">
+ <a href="#objetivo">Sobre</a> •
+ <a href="#tecnologias">Tecnologias</a> • 
+	<a href="#autor">Instalação</a> • 
+ <a href="#autor">Autor</a>
+	
+</p>
+
+#objetivo <br/>
+O objetivo desse projeto foi iniciar em React e Typescript aprendendo um pouco sobre estados, imutabilidade e props.
+
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com),[Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable), [React.js](https://reactjs.org/), [Typescript.js](https://www.typescriptlang.org/) => Esses dois últimos se não tiver eu explico abaixo. 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Rodando Servidor
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/amandaamabili/Git-Hub-Explorer>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd 01-github-explorer
+
+# Abra  a pasta no code
+$ code .
+
+# Instale as dependências
+
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn  dev
+
+# Execute a aplicação em modo build
+$ yarn  build
+
+# O servidor inciará na porta:8080 - acesse <http://localhost:8080>
+```
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  React Select 🚀 PRONTO.  🚧
 </h4>
 
 
